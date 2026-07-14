@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Parcs et Jardins Landais | Entretien d'espaces verts dans les Landes</title>
+  <meta name="description" content="Tonte, taille de haies, débroussaillage et entretien d'espaces verts à Artassenx, Mont-de-Marsan, dans les Landes et secteurs limitrophes.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="#accueil">
+    <img src="assets/logo.png" alt="Logo Parcs et Jardins Landais">
+    <span>Parcs et Jardins Landais</span>
+  </a>
+  <nav>
+    <a href="#services">Prestations</a>
+    <a href="#realisations">Réalisations</a>
+    <a href="#apropos">À propos</a>
+    <a class="nav-call" href="tel:+33611335756">Appeler</a>
+  </nav>
+</header>
+
+<main>
+<section id="accueil" class="hero">
+  <div class="overlay"></div>
+  <div class="hero-content">
+    <p class="eyebrow">Artassenx • Mont-de-Marsan • Landes</p>
+    <h1>Entretien de vos espaces verts</h1>
+    <p class="lead">Pour les particuliers, les professionnels et les collectivités.</p>
+    <div class="actions">
+      <a class="btn primary" href="tel:+33611335756">📞 Appeler le 06 11 33 57 56</a>
+      <a class="btn secondary" href="mailto:parcsetjardinslandais@gmail.com?subject=Demande%20de%20devis">✉ Demander un devis</a>
+    </div>
+    <p class="small">Déplacement dans les Landes et secteurs limitrophes selon l’ampleur du chantier.</p>
+  </div>
+</section>
+
+<section id="services" class="section">
+  <div class="section-head">
+    <p class="eyebrow">Nos prestations</p>
+    <h2>Un entretien adapté à chaque terrain</h2>
+  </div>
+  <div class="cards">
+    <article class="card"><span>🌿</span><h3>Tonte</h3><p>Entretien ponctuel ou régulier des pelouses et espaces engazonnés.</p></article>
+    <article class="card"><span>✂️</span><h3>Taille de haies</h3><p>Taille, remise en forme et entretien de vos haies et arbustes.</p></article>
+    <article class="card"><span>🌾</span><h3>Débroussaillage</h3><p>Jardins, parcelles, sous-bois, talus et grandes surfaces.</p></article>
+    <article class="card"><span>🍂</span><h3>Nettoyage extérieur</h3><p>Ramassage de feuilles et remise au propre des abords.</p></article>
+  </div>
+</section>
+
+<section id="realisations" class="section alt">
+  <div class="section-head">
+    <p class="eyebrow">Nos réalisations</p>
+    <h2>Des résultats visibles</h2>
+    <p>Quelques exemples de chantiers réalisés par Parcs et Jardins Landais.</p>
+  </div>
+  <div class="gallery">
+    <figure><img src="assets/debroussaillage.jpg" alt="Avant et après débroussaillage d'un terrain"><figcaption>Débroussaillage d’un terrain</figcaption></figure>
+    <figure><img src="assets/grand-terrain.jpg" alt="Avant et après entretien d'un grand terrain"><figcaption>Entretien d’une grande surface</figcaption></figure>
+    <figure><img src="assets/sous-bois.jpg" alt="Avant et après nettoyage d'un sous-bois"><figcaption>Nettoyage d’un sous-bois</figcaption></figure>
+    <figure><img src="assets/feuilles-1.jpg" alt="Avant et après ramassage de feuilles"><figcaption>Ramassage de feuilles</figcaption></figure>
+    <figure><img src="assets/feuilles-2.jpg" alt="Avant et après nettoyage d'abords"><figcaption>Nettoyage d’abords</figcaption></figure>
+    <figure><img src="assets/feuilles-3.jpg" alt="Avant et après entretien de jardin"><figcaption>Entretien de jardin</figcaption></figure>
+    <figure><img src="assets/jardin-avant.jpg" alt="Jardin avant tonte"><figcaption>Avant intervention</figcaption></figure>
+    <figure><img src="assets/jardin-apres.jpg" alt="Jardin après tonte"><figcaption>Après intervention</figcaption></figure>
+    <figure><img src="assets/terrain-apres.jpg" alt="Terrain entretenu avec tondeuse professionnelle"><figcaption>Tonte et finition</figcaption></figure>
+  </div>
+</section>
+
+<section id="apropos" class="section about">
+  <div>
+    <p class="eyebrow">À propos</p>
+    <h2>Une entreprise locale à votre service</h2>
+    <p>Je m’appelle <strong>Vincent Bugnicourt</strong>, fondateur de <strong>Parcs et Jardins Landais</strong>. Fort de <strong>6 ans d’expérience</strong>, j’interviens avec sérieux pour l’entretien de jardins, terrains et espaces verts.</p>
+    <p>Chaque chantier est étudié selon vos besoins, la surface à entretenir et les contraintes du terrain.</p>
+    <ul class="checks">
+      <li>Devis gratuit</li>
+      <li>Travail soigné</li>
+      <li>Matériel professionnel</li>
+      <li>Particuliers, professionnels et collectivités</li>
+    </ul>
+  </div>
+  <div class="contact-box">
+    <img src="assets/logo.png" alt="">
+    <h3>Besoin d’un devis ?</h3>
+    <p>Expliquez votre besoin par téléphone ou par e-mail.</p>
+    <a class="btn primary full" href="tel:+33611335756">📞 06 11 33 57 56</a>
+    <a class="btn outline full" href="mailto:parcsetjardinslandais@gmail.com?subject=Demande%20de%20devis">✉ Envoyer un e-mail</a>
+    <p class="email">parcsetjardinslandais@gmail.com</p>
+  </div>
+</section>
+</main>
+
+<footer>
+  <p><strong>Parcs et Jardins Landais</strong> — Artassenx, près de Mont-de-Marsan</p>
+  <p>© <span id="year"></span> Tous droits réservés.</p>
+</footer>
+
+<a class="floating-call" href="tel:+33611335756" aria-label="Appeler Parcs et Jardins Landais">📞 Appeler</a>
+<script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+</body>
+</html>
