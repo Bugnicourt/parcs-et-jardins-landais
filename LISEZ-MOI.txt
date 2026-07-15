@@ -1,4 +1,0 @@
-1. Décompressez le ZIP.
-2. Sur GitHub, cliquez Add file puis Upload files.
-3. Sélectionnez TOUS les fichiers extraits, mais pas le ZIP.
-4. Cliquez Commit changes.
